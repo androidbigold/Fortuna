@@ -1,5 +1,5 @@
-#只能在linux或Mac OS下运行
-#需要python3环境
+#只能在linux或Mac OS下运行    
+#需要python3环境    
 ##运行方法:
 -给予run.sh的执行权限
 *chmod a+x run.sh*
